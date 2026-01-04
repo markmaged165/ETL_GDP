@@ -30,5 +30,8 @@ The goal is to:
 ---
 
 ## 📂 Project Structure
-
+TL_GDP/
+│── README.md                # Project documentation
+│── scripts/                # Python helper functions
+│── data/                   # Raw and cleaned datasets
 
